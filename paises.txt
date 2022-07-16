@@ -1,17 +1,19 @@
-Paises Generales
+Paises suramericano con europeos
 en orden alfabetico:
 <<<<<<< HEAD
+ALEMANIA
 ARGENTINA
 BOLIVIA
 BRASIL
 SUECIA
 CHILE
 COLOMBIA
-ECUADOR
-POLONIA 
+ECUADOR 
 ESPAÑA
 IRAN
 IRAK
+ITALIA
 PANAMÁ
 PERÚ
+PORTUGAL
 VENEZUELA
