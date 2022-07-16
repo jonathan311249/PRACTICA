@@ -1,4 +1,5 @@
 Paises Generales:
+<<<<<<< HEAD
 1.ESPAÑA
 2.COLOMBIA
 3.BOLIVIA
@@ -7,3 +8,16 @@ Paises Generales:
 6.IRAN
 7.VENEZUELA
 8.INGLATERRA
+=======
+ESPAÑA
+COLOMBIA
+BOLIVIA
+PANAMÁ
+ECUADOR
+PERU
+IRAN
+VENEZUELA
+CHILE
+ARGENTINA
+BRASIL
+>>>>>>> develop
